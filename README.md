@@ -1,4 +1,4 @@
-![](https://cdn.glitch.global/ade407d1-2e00-45e4-bc94-7e0ce2f78578/SH3LL-All_logo_Types-10(1).png?v=1705382962033)
+![](https://cdn.glitch.global/ade407d1-2e00-45e4-bc94-7e0ce2f78578/SH3LL-All_logo_Types-0672.png?v=1705383430610)
 <br>
 <br>
 Sys/net admin embarking on a journey into the cyber realm. 
