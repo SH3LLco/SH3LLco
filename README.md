@@ -1,5 +1,7 @@
-### Hi there 👋
-
+![](https://cdn.glitch.global/ade407d1-2e00-45e4-bc94-7e0ce2f78578/SH3LL-All_logo_Types-10(1).png?v=1705382962033)
+<br>
+<br>
+Sys/net admin embarking on a journey into the cyber realm. 
 <!--
 **SH3LLco/SH3LLco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
