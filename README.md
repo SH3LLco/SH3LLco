@@ -1,5 +1,4 @@
-[comment]: <> (<img src="Final_Sh3ll_MotionDesign.gif" width=100% height=300>)
-<img src="Final_Sh3ll_MotionDesign.gif" width=100% height=500>
+<img src="Final_Sh3ll_MotionDesign.gif">
 <br>
 <br>
 Sys/net admin embarking on a journey into the cyber realm. 
