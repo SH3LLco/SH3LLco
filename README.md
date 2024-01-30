@@ -1,4 +1,4 @@
-![](https://cdn.glitch.global/ade407d1-2e00-45e4-bc94-7e0ce2f78578/Final_Sh3ll_MotionDesign.gif?v=1706609439598)
+![](https://cdn.glitch.global/ade407d1-2e00-45e4-bc94-7e0ce2f78578/Final_Sh3ll_MotionDesign.gif)
 
 <br>
 <br>
