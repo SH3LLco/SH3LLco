@@ -1,4 +1,4 @@
-![](https://cdn.glitch.me/ade407d1-2e00-45e4-bc94-7e0ce2f78578/Final_Sh3ll_MotionDesign.mp4?v=1706608982617)
+![](https://cdn.glitch.me/ade407d1-2e00-45e4-bc94-7e0ce2f78578/Final_Sh3ll_MotionDesign.mp4)
 
 <br>
 <br>
