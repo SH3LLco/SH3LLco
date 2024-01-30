@@ -1,7 +1,5 @@
 [comment]: <> (<img src="Final_Sh3ll_MotionDesign.gif" width=100% height=300>)
 <img src="Final_Sh3ll_MotionDesign.gif" width=100% height=500>
-<video src='https://cdn.glitch.me/ade407d1-2e00-45e4-bc94-7e0ce2f78578/Final_Sh3ll_MotionDesign.mp4'></video>
-
 <br>
 <br>
 Sys/net admin embarking on a journey into the cyber realm. 
